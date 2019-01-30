@@ -46,7 +46,7 @@ permissions:
 #    except:
 #    owner:
 #    group:
-#    mode: 
+     mode: 644
 #    acls:
      owner: ubuntu
      type:
