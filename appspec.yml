@@ -41,7 +41,7 @@ files:
 #   section may cause associated deployments to fail...
 overwrite: yes/skip/fail 
 permissions:
-   - object: /var/www/html/test
+   - object: /var/www/html/
 #    pattern:
 #    except:
 #    owner:
